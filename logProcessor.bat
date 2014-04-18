@@ -1,0 +1,1 @@
+java -cp jHiccup.jar org.jhiccup.HistogramLogProcessor -i hiccuplog -o histoOut.log
